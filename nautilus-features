@@ -1,0 +1,24 @@
+nautilus features:
+
+1. Splitview
+2. information overlay animation (gnome-sushi)
+3. Fullscreen animation
+4. Add delete (do not move to trash) menuentry
+5. read key binding from config (gesettings?)
+6. hide open in terminal (for grandpas ^^)
+7. configure locations the user is allowed to visit (for grandpas ^^)
+   * e.g. disallow to visit any folder above $HOME
+8. Add move folder up button
+9. Add option to hide file extension
+10. Show information overlay after 5 sec mouse over
+11. create more detailed folder information overlay
+12. option to use dark theme, independent from system settings
+13. Show location favorites in gnome-application-menu (menu that opens up when rightclicking on application icon in left panel)
+14. Option to display backup-copies but no hidden files (currently you can only view both at the same time or none of them)
+15. Add option to execute executables on nvidia graphics card if optimus system
+16. Hide specific file types (grandpa mode ^^)
+17. Add tags for files (use tracker api)
+18. Add colors to tags (use gsettings to store)
+19. Show information panel (gnome-sushi) as sidebar
+20. Hide menuentry open-with-other-application (grandpa mode)
+
